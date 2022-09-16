@@ -1,0 +1,9 @@
+---
+id: b5e45fe0-7620-4321-88d1-aeaa429b4d26
+name: random
+description: |
+  Random Planner: Executes a random ability (from the list of possible links) on a random agent.
+module: plugins.learning.app.random
+params: {}
+ignore_enforcement_modules: []
+allow_repeatable_abilities: True
